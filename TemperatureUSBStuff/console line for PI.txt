@@ -1,0 +1,1 @@
+pyinstaller --add-data "Audio.wav;." --onefile --windowed TemperatureApp.py
